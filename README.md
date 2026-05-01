@@ -2,7 +2,7 @@
 
 A self-contained Python script that patches an installed (non-binary) copy of [OF-Scraper](https://github.com/datawhores/OF-Scraper) to add a full **PyQt6 GUI** accessible via the `--gui` flag.
 
-**Supported versions:** `3.12.9`, `3.14.3`, `3.14.5`, and `3.14.7`
+**Supported versions:** `3.12.9`, `3.14.3`, `3.14.5`, and `3.14.7 (work in progress)`
 
 > **Python version requirement**
 > Python **3.11.x** or **3.12.x** is required. Python 3.13+ and versions below 3.11 are **not supported** and may cause issues with OF-Scraper or this patch.
